@@ -7,9 +7,9 @@ See the installation guide for VS here. Currently doesnt play well with unity, w
 [Antlr4 for VS](https://github.com/tunnelvisionlabs/antlr4cs)
 
 # How To (standalone project):
-1: Install Antlr4 C# packages and language support for VS as above.  
-2: Add TinyUnity.g4 as a link to your project using "Add Existing Item" and changing "Add" to "Add as link"  
-3: Build project  
+- 1: Install Antlr4 C# packages and language support for VS as above.  
+- 2: Add TinyUnity.g4 as a link to your project using "Add Existing Item" and changing "Add" to "Add as link"  
+- 3: Build project  
 
 # How to (Unity)
 1: Suffer
