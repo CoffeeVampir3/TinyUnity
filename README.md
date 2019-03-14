@@ -5,7 +5,7 @@ A C# implementation of the ANTLR4 Tiny syntax by bkiers. Lists still WIP
 
 # Assertions
 Currently passes the folowing assertions:
-
+```
 // boolean expressions
 assert(true || false);
 assert(!false);
@@ -97,3 +97,4 @@ assert(squaredAndTwice(10) == 200);
 assert(squared(squared(squared(2))) == ((2^2)^2)^2);
 
 println('All assertions passed.');
+```
