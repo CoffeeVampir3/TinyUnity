@@ -6,6 +6,13 @@ https://github.com/bkiers/tiny-language-antlr4
 See the installation guide for VS here. Currently doesnt play well with unity, working on it.
 https://github.com/tunnelvisionlabs/antlr4cs
 
+# How To (standalone project):
+1: Install Antlr4 C# packages and language support for VS as above.
+2: Add TinyUnity.g4 as a link to your project using "Add Existing Item" and changing "Add" to "Add as link"
+3: Build project
+
+# How to (Unity)
+1: Suffer
 
 
 # Assertions
