@@ -1,6 +1,10 @@
 # TinyUnity
 A C# implementation of the ANTLR4 Tiny syntax by bkiers. Lists still WIP
 
+# Antlr4
+See the installation guide for VS here. Currently doesnt play well with unity, working on it.
+https://github.com/tunnelvisionlabs/antlr4cs
+
 
 
 # Assertions
