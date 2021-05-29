@@ -1,5 +1,5 @@
 # TinyUnity
-A C# implementation of the ANTLR4 Tiny syntax by bkiers. Lists still a WIP.  
+A C# implementation of the ANTLR4 Tiny syntax by bkiers.
 [Bkiers Tiny Language](https://github.com/bkiers/tiny-language-antlr4)
     
 # Antlr4
